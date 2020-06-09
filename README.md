@@ -19,3 +19,4 @@ Fonte: https://docs.microsoft.com/pt-br/azure/cognitive-services/Translator/refe
 * JSON { "Text" : "Value" }
 
 ## Como usar a API
+* Enviar uma request para /translator-v3/translate.php?text=TEXTO_PARA_TRADUCAO
