@@ -5,12 +5,6 @@
  * @author https://github.com/wcostale
  */
 Class Translator {
-    /**
-     * ## getHeader
-     * Gera o cabeçalho para requisição
-     * @author https://github.com/wcostale
-     * @return array header
-    */
     public static function translate($text) { 
         $curl = curl_init();
 
